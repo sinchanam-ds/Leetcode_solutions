@@ -5,7 +5,7 @@ Solving LeetCode problems in C as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 1      |
+| Easy       | 2      |
 | Medium     | 0      |
 | Hard       | 0      |
 
@@ -18,6 +18,7 @@ Solving LeetCode problems in C as part of my SWE interview prep.
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Two-Sum.c) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [contains_duplicate.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/contains_duplicate.c) |
 
 ## Language
 All solutions are written in **C**.
