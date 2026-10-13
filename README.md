@@ -5,7 +5,7 @@ Solving LeetCode problems in C as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 3      |
+| Easy       | 4      |
 | Medium     | 1      |
 | Hard       | 0      |
 
@@ -21,6 +21,7 @@ Solving LeetCode problems in C as part of my SWE interview prep.
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [contains_duplicate.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/contains_duplicate.c) |
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [maximum_subarray.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/maximum_subarray.c) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best_time_to_buy_and_sell_stock.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Best_time_to_buy_and_sell_stock.c) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/move_zeroes.c) |
 
 ## Language
 All solutions are written in **C**.
