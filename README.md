@@ -5,8 +5,8 @@ Solving LeetCode problems in C as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 4      |
-| Medium     | 0      |
+| Easy       | 3      |
+| Medium     | 1      |
 | Hard       | 0      |
 
 ## Topics Covered
