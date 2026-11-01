@@ -25,6 +25,6 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/move_zeroes.c) |
 
 ## Language
-C:   4 solutions
-C++: 1 solution
+- **C**: 4 solutions
+- **C++**: 1 solution
 
