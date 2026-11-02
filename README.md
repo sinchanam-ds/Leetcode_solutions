@@ -5,10 +5,10 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 4      |
+| Easy       | 5      |
 | Medium     | 1      |
 | Hard       | 0      |
-| Total      | 5      |
+| Total      | 6      |
 
 ## Topics Covered
 - Arrays
@@ -23,8 +23,10 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [maximum_subarray.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/maximum_subarray.c) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best_time_to_buy_and_sell_stock.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Best_time_to_buy_and_sell_stock.c) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/move_zeroes.c) |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [plusOne.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/plusOne.cpp) |
+
 
 ## Language
 - **C**: 4 solutions
-- **C++**: 1 solution
+- **C++**: 2 solution
 
