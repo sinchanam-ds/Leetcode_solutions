@@ -5,10 +5,10 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 5      |
+| Easy       | 7      |
 | Medium     | 1      |
 | Hard       | 0      |
-| Total      | 6      |
+| Total      | 8      |
 
 ## Topics Covered
 - Arrays
@@ -24,9 +24,10 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best_time_to_buy_and_sell_stock.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Best_time_to_buy_and_sell_stock.c) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.c](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/move_zeroes.c) |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [plusOne.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/plusOne.cpp) |
-
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [merge_sorted_array.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Merge_Sorted_Array.cpp) |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Longest_Prefix_Sum.cpp) |
 
 ## Language
 - **C**: 4 solutions
-- **C++**: 2 solution
+- **C++**: 8 solution
 
