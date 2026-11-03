@@ -29,5 +29,5 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 
 ## Language
 - **C**: 4 solutions
-- **C++**: 8 solution
+- **C++**: 4 solution
 
