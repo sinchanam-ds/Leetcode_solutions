@@ -5,10 +5,10 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 8      |
-| Medium     | 1      |
-| Hard       | 0      |
-| Total      | 9      |
+| Easy       |  9     |
+| Medium     |  1     |
+| Hard       |  0     |
+| Total      | 10     |
 
 ## Topics Covered
 - Arrays
@@ -27,8 +27,9 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [merge_sorted_array.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Merge_Sorted_Array.cpp) |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Longest_Prefix_Sum.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [find_pivot_index.cpp](http://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Find_Pivot_Index.cpp) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [running_sum.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Running_Sum_of_1D_Array.cpp) |
 
 ## Language
 - **C**: 4 solutions
-- **C++**: 5 solution
+- **C++**: 6 solutions
 
