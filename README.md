@@ -5,10 +5,10 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 ## Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 7      |
+| Easy       | 8      |
 | Medium     | 1      |
 | Hard       | 0      |
-| Total      | 8      |
+| Total      | 9      |
 
 ## Topics Covered
 - Arrays
@@ -26,8 +26,9 @@ Solving LeetCode problems in C and C++ as part of my SWE interview prep.
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [plusOne.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/plusOne.cpp) |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [merge_sorted_array.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Merge_Sorted_Array.cpp) |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.cpp](https://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Longest_Prefix_Sum.cpp) |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [find_pivot_index.c](http://github.com/sinchanam-ds/Leetcode_solutions/blob/main/Find_Pivot_Index.cpp) |
 
 ## Language
 - **C**: 4 solutions
-- **C++**: 4 solution
+- **C++**: 5 solution
 
